@@ -1,6 +1,3 @@
 hi i am balaganesh
-<<<<<<< Updated upstream
 B.E CSE
-=======
 P.S.R.E.C
->>>>>>> Stashed changes
